@@ -12,13 +12,13 @@ p{
   font-family: 'Lato', sans-serif;
   letter-spacing: 1px;
   font-size:14px;
-  color: #333333;
+  color: #292929;
 }
 .header{
   position:relative;
   text-align:center;
-  background: -webkit-linear-gradient(to right, #414345, #232526);
-  background: linear-gradient(to right, #414345, #232526);
+  background: -webkit-linear-gradient(to right, #4e4f50, #242525);
+  background: linear-gradient(to right, #343435, #242525);
   color:white;
 }
 .logo{
@@ -74,10 +74,10 @@ p{
   animation-duration: 20s;
 }
 @keyframes move-forever{
-  0% {
+  0%{
    transform: translate3d(-90px,0,0);
   }
-  100% { 
+  100%{ 
     transform: translate3d(85px,0,0);
   }
 }
