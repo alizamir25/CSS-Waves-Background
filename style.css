@@ -83,14 +83,14 @@ p{
   }
 }
 @media (max-width: 768px){
-  .waves {
+  .waves{
     height:40px;
     min-height:40px;
   }
-  .content {
+  .content{
     height:30vh;
   }
-  h1 {
+  h1{
     font-size:24px;
   }
 }
